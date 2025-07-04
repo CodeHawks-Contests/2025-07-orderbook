@@ -65,7 +65,7 @@
 ## Set-up
 
 ```bash
-git clone https://github.com/CodeHawks-Contests/2025-06-orderbook.git
+git clone https://github.com/CodeHawks-Contests/2025-07-orderbook.git
 
 forge build
 
